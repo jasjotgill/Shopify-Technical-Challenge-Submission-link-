@@ -2,12 +2,12 @@
 Shopify Backend Developer Challenge
 
 To compile the program in your terminal:
-  javac shopify/*.java
-This requires you being one directory outside of the file.
+javac shopify/*.java
+ - This requires you being one directory outside of the file.
 
 To run the program in your terminal:
   java shopify.Run
-Again this require you to be one directory outside of the file.
+ - Again this require you to be one directory outside of the file.
 
 How it works:
 
